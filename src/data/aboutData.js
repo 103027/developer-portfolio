@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    description1: "My name's Hassan. I'm a final-year Computer Science student at FAST NUCES with a passion for building web experiences that are both functional and user-friendly.",
+    description2: "With over a year of hands-on experience in web development, I've worked on diverse projects that sharpened my skills in the MERN stack. I also completed a rewarding internship at Musketeers Tech, where I contributed as a frontend developer. Outside academics and work, I'm always exploring—whether it's experimenting with new tools, diving into AI and cybersecurity. I’m driven by curiosity, a hunger to learn, and a desire to turn ideas into impactful solutions.",
+    image: 1
 }

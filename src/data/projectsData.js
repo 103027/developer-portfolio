@@ -11,76 +11,76 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
-    },
-    {
-        id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Cyber Matrix',
+        projectDesc: 'Developed a web application integrating Nmap, Gobuster, CVE Reporting, John the Ripper, automated PenTesting and Chatbot.',
+        tags: ['React', 'Material Ui', 'Flask', 'MongoDb', 'AWS'],
+        code: 'https://github.com/103027/cyber-matrix',
+        demo: 'https://github.com/103027/cyber-matrix',
         image: two
     },
     {
-        id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
-    },
-    {
-        id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: four
-    },
-    {
-        id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
-    },
-    {
-        id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
-    },
-    {
-        id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        id: 2,
+        projectName: 'Career Compass',
+        projectDesc: '• A job portal application built with the MERN stack, engineered to streamline the recruitment process.',
+        tags: ['React', 'Material Ui', 'Node', 'MongoDb', 'Express'],
+        code: 'https://github.com/103027/job_posting_app',
+        demo: 'https://github.com/103027/job_posting_app',
         image: seven
     },
     {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
+        id: 4,
+        projectName: 'Crypt Connect',
+        projectDesc: 'Built a secure messaging platform designed to provide end-to-end encryption, secure key management, and user-friendly functionality, all while prioritizing data privacy.',
+        tags: ['React', 'Firebase', 'Ant Design', 'Crypto-js'],
+        code: 'https://github.com/103027/CryptConnect',
+        demo: 'https://github.com/103027/CryptConnect',
+        image: five
     },
+    {
+        id: 3,
+        projectName: 'AQI Prediction',
+        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        tags: ['Selenium', 'skit-learn', 'Numpy', 'Pandas'],
+        code: 'https://github.com/103027/AQI_value_prediction',
+        demo: 'https://github.com/103027/AQI_value_prediction',
+        image: three
+    },
+    // {
+    //     id: 5,
+    //     projectName: 'E-Commerce App',
+    //     projectDesc: 'A Simple E-commerce application',
+    //     tags: ['React Native', 'Firebase'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: five
+    // },
+    // {
+    //     id: 6,
+    //     projectName: 'Uber Lite',
+    //     projectDesc: 'Uber clone',
+    //     tags: ['Flutter'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: six
+    // },
+    // {
+    //     id: 7,
+    //     projectName: 'Stock Market App',
+    //     projectDesc: 'A simple stock market API app',
+    //     tags: ['React', 'Redux', 'Bootstrap'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: seven
+    // },
+    // {
+    //     id: 8,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+    //     tags: ['Flutter', 'React'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: eight
+    // },
 ]
 
 
